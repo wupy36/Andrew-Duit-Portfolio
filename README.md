@@ -1,5 +1,9 @@
 # Andrew's Homepage
 
+I am working on developing my Software Development/Engineering skills and interests. 
+
+This is a repository of my learning and a resume of projects.
+
 [https://www.andrewduit.com/](https://www.andrewduit.com/)
 
 ## Stack
